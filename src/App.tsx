@@ -96,8 +96,8 @@ class App extends React.Component<{}, State> {
           minHeight: '100vh',
         }}
       >
-        <div className="mui-row">
-          <Header />
+        <Header />
+        <div className="mui-row" style={{ marginTop: '10rem' }}>
           <div className="mui-col-md-6">
             {notes.map((item: any) => (
               <ListItem
