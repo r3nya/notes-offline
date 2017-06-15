@@ -1,0 +1,12 @@
+[Wed, 14 Jun 2017 22:30:20 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Wed, 14 Jun 2017 22:30:20 GMT] [info] [<0.000.0>] database files will be saved to notes
+[Wed, 14 Jun 2017 22:30:20 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Wed, 14 Jun 2017 22:31:11 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Wed, 14 Jun 2017 22:31:11 GMT] [info] [<0.000.0>] database files will be saved to notes
+[Wed, 14 Jun 2017 22:31:11 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Wed, 14 Jun 2017 22:34:24 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Wed, 14 Jun 2017 22:34:24 GMT] [info] [<0.000.0>] database files will be saved to notes
+[Wed, 14 Jun 2017 22:34:24 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Wed, 14 Jun 2017 23:15:45 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Wed, 14 Jun 2017 23:15:45 GMT] [info] [<0.000.0>] database files will be saved to notes
+[Wed, 14 Jun 2017 23:15:45 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.

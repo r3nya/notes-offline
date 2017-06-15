@@ -1,0 +1,5 @@
+localhost:2020 {
+  bind {$ADDRESS}
+  proxy / localhost:5984
+  tls self_signed
+}
