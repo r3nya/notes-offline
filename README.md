@@ -2,4 +2,4 @@
 
 - `yarn`
 - Install caddy server (`brew install caddy`)
-- `yarn run start`
+- run `caddy` and `yarn run start`
